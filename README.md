@@ -1,4 +1,3 @@
-# lastweektest
 
 > A Vue.js project
 
